@@ -12,6 +12,9 @@ export default function InfoPage() {
         >
           <p>1969 Harbor Blvd Costa Mesa, CA 92627</p>
         </a>
+        <a href={`tel:${9496463484}`} target="_blank">
+          <p>949-646-3484</p>
+        </a>
       </div>
     </main>
   );
